@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">I am an ever learning full stack developer who is always ready for new challenges.</h3>
+<h3 align="center">I am an ever learning developer who is always ready for new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethamadhan&label=Profile%20views&color=0e75b6&style=flat" alt="swethamadhan" /> </p>
 
