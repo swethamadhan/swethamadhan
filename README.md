@@ -18,5 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Swetha&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
 
