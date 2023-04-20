@@ -4,6 +4,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/17787033-Workplace?utm_source=Clipboard_Shot&utm_campaign=patrisxa&utm_content=Workplace&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=patrisxa&utm_content=Workplace&utm_medium=Social_Share">
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on Attendance register app using flutter<br><br>🌱 I’m currently learning animations in flutter<br><br>💬 Ask me about flutter or anything related to Machine Learning <br><br>📫 How to reach me swethamadhan03@gmail.com<br><br>⚡ Fun fact I'm a dedicated yoga enthusiast, willing to help anyone.
