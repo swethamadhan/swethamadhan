@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">I am an ever learning developer who is always ready for new challenges.</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Attendance register app using flutter<br><br>🌱 I’m currently learning animations in flutter<br><br>💬 Ask me about flutter or anything related to Machine Learning <br><br>📫 How to reach me swethamadhan03@gmail.com<br><br>⚡ Fun fact I'm a dedicated yoga enthusiast, willing to help anyone.
 
@@ -18,6 +22,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Swetha&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
 
