@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">I am an ever learning developer who is always ready for new challenges.</h3>
 
----
 [![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
 
 
