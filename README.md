@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic about creating extremely precise machine learning models.</h3>
 
 
-[![](https://visitcount.itsvg.in/api?id=Swetha&icon=6&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethamadhan&label=Profile%20views&color=0e75b6&style=flat" alt="swethamadhan" /> </p>
 
 
 # 💫 About Me
